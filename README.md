@@ -1,1 +1,2 @@
-The goal of this project was to simulate an actual day in the life of an IT Support role by remotely connecting to a client using AnyDesk and resolving a slow computer.
+- The goal of this project was to simulate an actual day in the life of an IT Support role by remotely connecting to a client using AnyDesk and resolving a slow computer.
+- (To view my project, click on the .odt file above and select "view raw". It should then begin an automatic download of the word document).
